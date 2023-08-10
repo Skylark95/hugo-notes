@@ -208,7 +208,11 @@ Storm
 - 100 sailors have volunteered to be a part of our crew
 - **Handout:** a players map to the stars
 
-## Isle of Yonder
+## Isle of Yonder (I - The Gygan)
 - Follow the trail and you'll find Gyus
 - Gygan status has cage where head should be
+
+## (Constellation of the Twins)
+
+## (Constellation of the Bard)
 
