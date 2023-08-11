@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 10"
 weight: 10
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Lulth, demon goddess of spiders, worshiped by drow

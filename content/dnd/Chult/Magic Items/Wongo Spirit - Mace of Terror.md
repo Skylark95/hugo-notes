@@ -1,5 +1,7 @@
 ---
 title: "Wongo Spirit / Mace of Terror"
+categories:
+  - Chult Campaign Magic Items
 ---
 
 Wongo

@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 16 Crystal Maze"
 weight: 16
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 - Crystal over pit with mist inside
 - Met Erla

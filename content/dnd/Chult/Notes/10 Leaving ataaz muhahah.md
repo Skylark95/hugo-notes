@@ -1,6 +1,8 @@
 ---
 title: "Leaving ataaz muhahah"
 weight: 10
+categories:
+- Chult Campaign Notes
 ---
 
 Found camp, bunch of plant traps

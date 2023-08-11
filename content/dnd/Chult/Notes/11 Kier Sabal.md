@@ -1,6 +1,8 @@
 ---
 title: "Kier Sabal"
 weight: 11
+categories:
+- Chult Campaign Notes
 ---
 
 Bird folk

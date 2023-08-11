@@ -1,5 +1,7 @@
 ---
 title: "Bracers of Archery"
+categories:
+  - Chult Campaign Magic Items
 ---
 
 Wondrous item, uncommon (requires attunement)

@@ -1,5 +1,7 @@
 ---
 title: "Ubtao's Devotion"
+categories:
+  - Chult Campaign Magic Items
 ---
 
 Shortsword, requires attunement.

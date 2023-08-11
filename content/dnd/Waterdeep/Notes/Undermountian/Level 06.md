@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 6"
 weight: 6
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Level 6 south, 7 across river, near tearalise’s realm

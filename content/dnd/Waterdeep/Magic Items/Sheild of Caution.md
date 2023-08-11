@@ -1,5 +1,7 @@
 ---
 title: "Shield of Caution"
+categories:
+- Waterdeep Campaign Magic Items
 ---
 
 - While attuned to this shield you gain the following benefits:

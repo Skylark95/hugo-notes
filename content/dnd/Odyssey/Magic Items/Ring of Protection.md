@@ -1,5 +1,7 @@
 ---
 title: "Ring of Protection"
+categories:
+- Odyssey Campaign Magic Items
 ---
 - Sounds base of neck, voices
 - Remember us, remember us, save us, bring us back

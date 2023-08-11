@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 8"
 weight: 8
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Wet, bugs, swampy, marshy

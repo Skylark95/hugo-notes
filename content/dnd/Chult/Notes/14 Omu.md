@@ -1,6 +1,8 @@
 ---
 title: "Omu"
 weight: 14
+categories:
+- Chult Campaign Notes
 ---
 As we approach a few hexes away, no animals
 

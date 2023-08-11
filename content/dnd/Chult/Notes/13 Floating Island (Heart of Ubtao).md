@@ -1,6 +1,8 @@
 ---
 title: "Floating Island (Heart of Ubtao)"
 weight: 13
+categories:
+- Chult Campaign Notes
 ---
 
 Stone heart hanging in the sky

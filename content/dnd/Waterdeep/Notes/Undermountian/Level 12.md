@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 12"
 weight: 12
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Handout: Gloves of Missile Snaring

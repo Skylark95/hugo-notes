@@ -1,5 +1,7 @@
 ---
 title: "Luckstone"
+categories:
+- Leftovers Campaign Magic Items
 ---
 Wondrous item, uncommon (requires attunement)
 

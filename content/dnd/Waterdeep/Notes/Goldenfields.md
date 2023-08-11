@@ -1,5 +1,7 @@
 ---
 title: "Goldenfields"
+categories:
+- Waterdeep Campaign Notes
 ---
 
 - Exemplar of Shawteah

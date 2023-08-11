@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 15"
 weight: 15
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Netherskull killed Fadelio (spectral)

@@ -1,5 +1,7 @@
 ---
 title: "Waterdeep"
+categories:
+- Waterdeep Campaign Notes
 ---
 
 The DM (GM):Search for that which remains unseen, find the one with hand unclean.

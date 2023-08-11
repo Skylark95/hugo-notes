@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 1"
 weight: 1
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - 3 level flaming skull

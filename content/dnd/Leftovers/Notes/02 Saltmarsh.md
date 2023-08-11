@@ -1,5 +1,8 @@
 ---
 title: "Saltmarsh"
+weight: 2
+categories:
+- Leftovers Campaign Notes
 ---
 
 Rich looking ship doing tavern crawl with announcement - lord solmer passed away - son anders taken over business, looking for crew of individuals to turn things around

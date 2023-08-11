@@ -1,6 +1,8 @@
 ---
 title: "Homebrew"
 weight: 16
+categories:
+- Chult Campaign Notes
 ---
 
 - Artis Simber

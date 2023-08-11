@@ -1,5 +1,7 @@
 ---
 title: "Antikythera Device"
+categories:
+- Odyssey Campaign Magic Items
 ---
 
 Wondrous item, legendary (requires attunement)

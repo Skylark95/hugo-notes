@@ -1,6 +1,8 @@
 ---
 title: "Nangalore"
 weight: 12
+categories:
+- Chult Campaign Notes
 ---
 
 Eblis - big birds

@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 7"
 weight: 7
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Bears, leave them alone

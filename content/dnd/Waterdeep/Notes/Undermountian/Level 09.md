@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 9"
 weight: 9
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Floating arm/limb blue light

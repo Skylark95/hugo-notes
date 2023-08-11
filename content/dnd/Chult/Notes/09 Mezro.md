@@ -1,6 +1,8 @@
 ---
 title: "Mezro"
 weight: 9
+categories:
+- Chult Campaign Notes
 ---
 
 Found camp, bunch of plant traps

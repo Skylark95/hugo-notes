@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 17"
 weight: 17
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 - Mindflayers run by Ulitharid (Handout)
   - Looking to become an elder brain

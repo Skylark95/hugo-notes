@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 2"
 weight: 2
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Goblin market

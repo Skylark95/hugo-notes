@@ -1,6 +1,8 @@
 ---
 title: "Tomb of the nine gods"
 weight: 15
+categories:
+- Chult Campaign Notes
 ---
 
 - Acerekak's Second Warning Handout

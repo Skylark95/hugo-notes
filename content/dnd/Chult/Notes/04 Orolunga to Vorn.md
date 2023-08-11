@@ -1,6 +1,8 @@
 ---
 title: "Orolunga to Vorn"
 weight: 4
+categories:
+- Chult Campaign Notes
 ---
 
 Large chuck of earth floating 120 feet off the ground

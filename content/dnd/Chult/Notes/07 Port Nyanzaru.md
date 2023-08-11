@@ -1,6 +1,8 @@
 ---
 title: "Port Nyanzaru"
 weight: 7
+categories:
+- Chult Campaign Notes
 ---
  
  See handouts… 

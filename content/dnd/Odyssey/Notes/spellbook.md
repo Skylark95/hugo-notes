@@ -1,9 +1,7 @@
 ---
 title: "Spellbook"
-tags: 
-- dnd
-- items
-- Odyssey Campaign
+categories:
+- Odyssey Campaign Notes
 ---
 # Level 1
 Identify

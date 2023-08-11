@@ -1,6 +1,8 @@
 ---
 title: "Leaving Vorn"
 weight: 6
+categories:
+- Chult Campaign Notes
 ---
 
 Tree with an eyeball and mouth?

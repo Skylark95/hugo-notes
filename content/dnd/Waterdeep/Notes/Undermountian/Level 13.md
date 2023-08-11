@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 13"
 weight: 13
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - A Large Badger?

@@ -1,6 +1,10 @@
 ---
 title: "Undermountain Level 14"
 weight: 14
+categories:
+- Waterdeep Campaign Notes
+tags:
+- Undermountain
 ---
 
 - Fire giant

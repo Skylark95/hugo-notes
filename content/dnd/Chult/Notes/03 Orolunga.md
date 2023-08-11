@@ -1,6 +1,8 @@
 ---
 title: "Orolunga"
 weight: 3
+categories:
+- Chult Campaign Notes
 ---
 
 Massive brick and stone ziggerot

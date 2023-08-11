@@ -1,6 +1,8 @@
 ---
 title: "Leaving Port"
 weight: 8
+categories:
+- Chult Campaign Notes
 ---
 
 Frost giants

@@ -1,5 +1,7 @@
 ---
 title: "Shortbow of Cupidity"
+categories:
+- Odyssey Campaign Magic Items
 ---
 
 Weapon (shortbow), legendary (requires attunement)

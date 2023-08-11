@@ -1,6 +1,8 @@
 ---
 title: "Mbala to Orolunga"
 weight: 2
+categories:
+- Chult Campaign Notes
 ---
 
 - Killed a bunch of villagers we thought were zombies

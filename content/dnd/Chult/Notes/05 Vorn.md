@@ -1,6 +1,8 @@
 ---
 title: "Vorn"
 weight: 5
+categories:
+- Chult Campaign Notes
 ---
 
 8 ft statue, offerings around feet - Shield Guardian
