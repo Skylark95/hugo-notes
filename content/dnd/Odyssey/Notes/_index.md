@@ -218,9 +218,9 @@ Storm
 - Large pit, bubbling yellow icor, worm like larva size of small dogs, mortal faces, fithly linins across the room. 
 - Three women at loom of gigantic creature
   - Rots see's her parents in the loom, early life, sees Lutheria (slaughtered her parents)
-- PERSONAL QUEST: Prophesy foretold to bread the power of death, Lutheria hunted me down, Mithros intervened and reached out and erased my entire existance from history, souls of wife and child abrobed by luteria's crystal scythe and can free their souls and piece of wife's soul still remains and queen of the amazon's has one of her possessions, item has small piece of her soul.
+- PERSONAL QUEST (Isle of Themes): Prophesy foretold to bread the power of death, Lutheria hunted me down, Mithros intervened and reached out and erased my entire existance from history, souls of wife and child abrobed by luteria's crystal scythe and can free their souls and piece of wife's soul still remains and queen of the amazon's has one of her possessions, item has small piece of her soul.
 
 # Island Random Encounter
 
-
+## Isle of Yonder (I - The Gygan) - (Again)
 
