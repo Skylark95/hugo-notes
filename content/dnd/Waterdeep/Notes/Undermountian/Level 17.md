@@ -26,3 +26,11 @@ tags:
 - gerana hammerstone - dwarf - 248
 - dondaric steelfist - dwarf waterdeep - 746
 - valan vondrew - elf - waterdeep - 248
+
+# Boss
+- Extrematon
+- pease between people
+- take on the gith
+- 2 mindless constructs
+- handfull of thralls
+- detachment of ilithi
