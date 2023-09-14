@@ -223,4 +223,11 @@ Storm
 # Island Random Encounter
 
 ## Isle of Yonder (I - The Gygan) - (Again)
+- oh shit it's Gaius
+  - Room Loot
+    - Small bag
+    - cloak of dragonswarn
+- Chondurs
+- Got 6 potions
+- TODO: arcane recovery
 

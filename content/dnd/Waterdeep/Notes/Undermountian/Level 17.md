@@ -34,3 +34,7 @@ tags:
 - 2 mindless constructs
 - handfull of thralls
 - detachment of ilithi
+
+# yawning portal ?
+- Dorcus Incandensa
+
