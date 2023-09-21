@@ -231,3 +231,9 @@ Storm
 - Got 6 potions
 - TODO: arcane recovery
 
+## Isle of Themis (The Twins)
+- Kal Random encounter meteor
+    - Luteria makes us all bloodlust
+- giraffe like creatures
+- Queen of the amazon far part of the island
+- have to kill both sisters
