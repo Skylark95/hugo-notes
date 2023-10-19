@@ -237,3 +237,6 @@ Storm
 - giraffe like creatures
 - Queen of the amazon far part of the island
 - have to kill both sisters
+
+- Lady of coins
+- Greg Found Bront
