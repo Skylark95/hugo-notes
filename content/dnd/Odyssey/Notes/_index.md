@@ -219,6 +219,7 @@ Storm
 - Three women at loom of gigantic creature
   - Rots see's her parents in the loom, early life, sees Lutheria (slaughtered her parents)
 - PERSONAL QUEST (Isle of Themes): Prophesy foretold to bread the power of death, Lutheria hunted me down, Mithros intervened and reached out and erased my entire existance from history, souls of wife and child abrobed by luteria's crystal scythe and can free their souls and piece of wife's soul still remains and queen of the amazon's has one of her possessions, item has small piece of her soul.
+  - Find her, break her sythe, and free us.
 
 # Island Random Encounter
 
@@ -240,3 +241,8 @@ Storm
 
 - Lady of coins
 - Greg Found Bront
+
+## Scorpion Island (The Centaur)
+- Stone obelisk, no doors, wildflowers (lotus flowers)
+- Door appears, room filled with children of different races
+- Witch keeping kids young
