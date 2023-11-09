@@ -246,3 +246,11 @@ Storm
 - Stone obelisk, no doors, wildflowers (lotus flowers)
 - Door appears, room filled with children of different races
 - Witch keeping kids young
+
+## Random Encounter
+- Met a mermaid, father Hywan
+- ITEM: Coral - Potion of water breathing and heroism
+
+## Fire Island (The Prisoner)
+- Mecanical silver raven (Handout figurine of wonderous power)
+- There is a dragon egg for Greg on the island
