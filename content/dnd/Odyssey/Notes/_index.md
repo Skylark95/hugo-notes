@@ -252,5 +252,12 @@ Storm
 - ITEM: Coral - Potion of water breathing and heroism
 
 ## Fire Island (The Prisoner)
-- Mecanical silver raven (Handout figurine of wonderous power)
+- Sydon and Lutheria trapped here under volcano
+- Mechanical silver raven (Handout figurine of wondrous power)
 - There is a dragon egg for Greg on the island
+- 5 hp more temp
+
+## Nethersea
+- Sea of cosmic matter gods used, exists for reasons?
+- Home to the titan Luteria
+- Lost -2 to strength
