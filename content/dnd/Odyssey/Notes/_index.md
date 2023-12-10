@@ -261,3 +261,13 @@ Storm
 - Sea of cosmic matter gods used, exists for reasons?
 - Home to the titan Luteria
 - Lost -2 to strength
+- dragon, and his leader, flew to nethersea, to hide the treasures of the dragon lord, found island in hell.
+  - hezavol
+  - dragonlord ester arcalander, beat cyclops/gygan to make him weapon, bronse dagger, slaugher smith and entire family, 
+- weird box with some creature in it???
+- 3 lifelike statues
+  - 4 of the titans tried to strike at luteria directly (3 bothers of sydon and luteria that lost)
+- Prison nearby holds powerful weapon
+  - been there since the beginning, primordial
+  - challenge her to the game (game of 20 squares)
+  - primordial words spoken and brings me to a drool
