@@ -271,3 +271,7 @@ Storm
   - been there since the beginning, primordial
   - challenge her to the game (game of 20 squares)
   - primordial words spoken and brings me to a drool
+
+## Constellation of the Golden Heart
+- Large tree
+- Pegasus flying above
