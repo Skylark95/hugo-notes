@@ -275,3 +275,7 @@ Storm
 ## Constellation of the Golden Heart
 - Large tree
 - Pegasus flying above
+- Perception check from top of tree
+  - Golden ram flying across sky?
+  - Golden lion
+- Thylea: Before you meet my sister, complete personal quests
