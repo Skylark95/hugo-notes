@@ -279,3 +279,6 @@ Storm
   - Golden ram flying across sky?
   - Golden lion
 - Thylea: Before you meet my sister, complete personal quests
+
+# Aerie of the Roc
+- Maze - banish creature to a maze
