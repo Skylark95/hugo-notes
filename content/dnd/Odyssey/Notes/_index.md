@@ -12,7 +12,8 @@ Kyrah - agent of the oracle
 - tinnaus and givand (scouts)
 - Received: Charm of heroism 10 temp hp, bless spell for an hour
 
-# Visiting the Oracle
+Visiting the Oracle
+-------------------
 - hasn't responded to Kyrah
 - stop the witch from harming Verci (The Oracle) - water nymph, brokered the oath of peace
 - order of Sadan, oracle is in trouble
@@ -23,35 +24,44 @@ Kyrah - agent of the oracle
 ~ Sydon, Lord of All
 
 
-# Handout: Prophesy of the oracle 
+Handout: Prophesy of the oracle 
+-------------------------------
 - shape silver fire of the 
 - claim the might weapons 
 - drink deep from the dragon horn
 
-# Character Backstory
+Character Backstory
+-------------------
 - Demetria has something that belongs with me Mossy temple in the old woods
 
-# Travel
+Travel
+------
 - Party took an oath of service
 - 1 Furnished Dragon lord coin (give to Damen - litch)
 
-# Estoria
+Estoria
+-------
 - The horn is here
 - Dragon shrine of Balmitria
 
-## The Kings palace - King Pythor
+The Kings palace - King Pythor
+------------------------------
 - Let me tell you of my woes
 - Oath of peace, Titans take away his daughter
 - Order of Sydan, from lords of storms, daughter to be chained to rock of estor as offering
 
-# Volkan's Hall
+Volkan's Hall
+-------------
 
-# Rock of Estor
+Rock of Estor
+-------------
 - Basalisk
 
-# Dragons Shrine
+Dragons Shrine
+--------------
 
-# Mossy Temple
+Mossy Temple
+------------
 - Woman named Demetria
   - In charge of the temple
   - Tree was Demetria's sister, heart tree
@@ -65,24 +75,29 @@ Kyrah - agent of the oracle
   - Necklace is wife's ring
   - Book pinned by luteria, how to make maynid
 
-# Drink from horn
+Drink from horn
+---------------
 - Ship of the Undead (The Ultros)
 - Ester owned the ship
 - About 500 years ago
 
-# Karenna's home
+Karenna's home
+--------------
 - Dad: Tharacleses
 - Daughter has been missing for about a week
 - Reward: Javalin (A gift from Sydon)
 -
-# The Horn
+The Horn
+-----------
 - Take it back to Queen Valis (In Mytros)
   - Don't give back to the King
-# Rock of Estor
+Rock of Estor
+-------------
 - King Pythor is pretty damn happy
 - HANDOUT: Birth of the Titans
 
-# Mitrhal Mines
+Mitrhal Mines
+-------------
 - The demon frogs emerge at night
 - Blow horn on the riverbank of the arcolon and the centars tribe will find us
 - We rescued the centuars
@@ -105,7 +120,9 @@ Kyrah - agent of the oracle
   - 6 adamantine javalins
 - Dwarf Vulkan
   - Luck Blade or ??? of worldly might
-# Necropolis
+
+Necropolis
+----------
 - Arms of ketamane the 100 handed titan
 - The path of the dead
 - utterly quiet
@@ -130,7 +147,8 @@ Kyrah - agent of the oracle
   - armor stolen by gyus on the isle of yonder
   - axe of xandar (damaged, needs repaired to get magical power)
 
-# Mytros
+Mytros
+------
 - Vision of old man dying (Lutheria?)
 - Tarkon of behalf of King 
 - Massive Black clouds, heavy rain, bearded man forhead center of the storm (Third eye storm) - It's Sydon
@@ -159,24 +177,29 @@ Storm
 - Great Orary (Planes of existance)
 - Hall of Debate
 
-## Ship
+Ship
+----
 - Last seen dead falls
 
-### Sour Vintage tavern
+Sour Vintage tavern
+-------------------
 - Ghost ship on river lethe
 - Death falls to underwarld, luteria
 
 - Each oar translucent decoposed man
 
-## Ship
+Ship
+----
 - Estor Archalander (vision?) looking for captian of the Oltros
   - 3 trators among crew, they must be hunted down and destroyed
     - dalos, metron, and ????
   - Estor goes into Tunax
 
-## Dockyard
+Dockyard
+--------
 
-## Palace
+Palace
+------
 - Chief stewardess looking into navigation
 - Quest: Cult of Luteria causing trouble, involved in some backdealings
 - Quest: Lady of Coins, crime lord of sorts causing issues among wealthy, those who displease the lady are often found turned to stone with a green snake painted on the wall ()
@@ -192,28 +215,34 @@ Storm
 ## Menatar Market
 - Met slave menatar Bullbug
 
-## Taren Nurdaggen Property
+Taren Nurdaggen Property
+------------------------
 - Shit went south
 - We did the murder
 
-## Collosus 
+Collosus 
+--------
 - The Isle of Themes - Lady of coins wants to go there, she wants to find her sister, Thesalia, queen of the amazons, kill here and take her place
   - There is also a legendary weapon there
 
-## Departure from Mythros
+Departure from Mythros
+----------------------
 - Gifts: These include four goats and two white cows from some of Mytros’s most respected farmers; a quiver of ten +1 arrows from the city's centurions; and six potions of healing, four potions of climbing, and four potions of resistance from the Academy.
 - Got a magic device to chart a course to an associated island, it is missing a gear, so you will need it to navigate to the forgotten sea (order of sydon (Gyus) has is probably on the isle of yonder)
 - Isle of Yonder is the headquarters of the Order of Sydon
 - 100 sailors have volunteered to be a part of our crew
 - **Handout:** a players map to the stars
 
-## Isle of Yonder (I - The Gygan)
+Isle of Yonder (I - The Gygan)
+------------------------------
 - Follow the trail and you'll find Gyus
 - Gygan status has cage where head should be
 
-## (Constellation of the Twins)
+(Constellation of the Twins)
+----------------------------
 
-## Island of the Fates (Constellation of the Bard)
+Island of the Fates (Constellation of the Bard)
+-----------------------------------------------
 - 3 cave entrances, walk into main one, smells like rotten egg?
 - Large pit, bubbling yellow icor, worm like larva size of small dogs, mortal faces, fithly linins across the room. 
 - Three women at loom of gigantic creature
@@ -221,9 +250,11 @@ Storm
 - PERSONAL QUEST (Isle of Themes): Prophesy foretold to bread the power of death, Lutheria hunted me down, Mithros intervened and reached out and erased my entire existance from history, souls of wife and child abrobed by luteria's crystal scythe and can free their souls and piece of wife's soul still remains and queen of the amazon's has one of her possessions, item has small piece of her soul.
   - Find her, break her sythe, and free us.
 
-# Island Random Encounter
+Island Random Encounter
+-----------------------
 
-## Isle of Yonder (I - The Gygan) - (Again)
+Isle of Yonder (I - The Gygan) - (Again)
+----------------------------------------
 - oh shit it's Gaius
   - Room Loot
     - Small bag
@@ -232,7 +263,8 @@ Storm
 - Got 6 potions
 - TODO: arcane recovery
 
-## Isle of Themis (The Twins)
+Isle of Themis (The Twins)
+--------------------------
 - Kal Random encounter meteor
     - Luteria makes us all bloodlust
 - giraffe like creatures
@@ -242,22 +274,26 @@ Storm
 - Lady of coins
 - Greg Found Bront
 
-## Scorpion Island (The Centaur)
+Scorpion Island (The Centaur)
+-----------------------------
 - Stone obelisk, no doors, wildflowers (lotus flowers)
 - Door appears, room filled with children of different races
 - Witch keeping kids young
 
-## Random Encounter
+Random Encounter
+----------------
 - Met a mermaid, father Hywan
 - ITEM: Coral - Potion of water breathing and heroism
 
-## Fire Island (The Prisoner)
+Fire Island (The Prisoner)
+--------------------------
 - Sydon and Lutheria trapped here under volcano
 - Mechanical silver raven (Handout figurine of wondrous power)
 - There is a dragon egg for Greg on the island
 - 5 hp more temp
 
-## Nethersea
+Nethersea
+---------
 - Sea of cosmic matter gods used, exists for reasons?
 - Home to the titan Luteria
 - Lost -2 to strength
@@ -272,7 +308,8 @@ Storm
   - challenge her to the game (game of 20 squares)
   - primordial words spoken and brings me to a drool
 
-## Constellation of the Golden Heart
+Constellation of the Golden Heart
+---------------------------------
 - Large tree
 - Pegasus flying above
 - Perception check from top of tree
@@ -280,5 +317,14 @@ Storm
   - Golden lion
 - Thylea: Before you meet my sister, complete personal quests
 
-# Aerie of the Roc
+Aerie of the Roc
+----------------
 - Maze - banish creature to a maze
+
+Random Encounter
+----------------
+- Met Agis in a Whale
+
+Constellation of the Trickster
+------------------------------
+- Met by some 3 headed bird that attacked us
