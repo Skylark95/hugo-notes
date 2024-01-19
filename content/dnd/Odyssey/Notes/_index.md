@@ -328,3 +328,7 @@ Random Encounter
 Constellation of the Trickster
 ------------------------------
 - Met by some 3 headed bird that attacked us
+- **Item** - Jaded Necklace: Immune to charm, fear, stun, surprise, but 1 level of exhaustion
+
+Random Encounter: Storm
+-----------------------
