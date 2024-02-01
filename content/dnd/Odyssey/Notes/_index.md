@@ -332,3 +332,17 @@ Constellation of the Trickster
 
 Random Encounter: Storm
 -----------------------
+
+Constellation of the Warrior - Island of the Exiles
+---------------------------------------------------
+- Iddila
+  - Son is King Accastus of Mitrhos
+  - King Stavros
+  - Tyron in election against Stravros
+    - fanatics
+  - Jerome and Jamal (dead)
+  - Kelan
+  - Tad has tools will make weapons
+  - Hyros and Gafriel (second murder)
+    - Support Stavros
+    - Tyron all talk, youger
