@@ -346,3 +346,14 @@ Constellation of the Warrior - Island of the Exiles
   - Hyros and Gafriel (second murder)
     - Support Stavros
     - Tyron all talk, youger
+
+Indigo Island (The Queen)
+-------------------------
+- Fishermen have weapons that are not brose (silver?)
+- Dingle - Welcoming party
+- Loopy Woopie - Chief
+- Tribe of the eel
+- Shark tribe most attacked by dragon
+- Dolphin edges
+- Whale central forest
+
