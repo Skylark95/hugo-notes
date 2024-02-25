@@ -349,11 +349,18 @@ Constellation of the Warrior - Island of the Exiles
 
 Indigo Island (The Queen)
 -------------------------
-- Fishermen have weapons that are not brose (silver?)
+- Fishermen have weapons that are not bronze (silver?)
 - Dingle - Welcoming party
 - Loopy Woopie - Chief
 - Tribe of the eel
 - Shark tribe most attacked by dragon
+- Dragon flew east to west
 - Dolphin edges
 - Whale central forest
+- Gorak - chief of the shark tribe
+  - dragon attacks are random
+  - just started a few months ago
+- Delg - chief of whale tribe
+  - dragon east of here, highest point
+
 
