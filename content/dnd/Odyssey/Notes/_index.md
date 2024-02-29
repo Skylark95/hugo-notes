@@ -363,4 +363,11 @@ Indigo Island (The Queen)
 - Delg - chief of whale tribe
   - dragon east of here, highest point
 
+- 500gp
+- 100pp
 
+- twins, aunt, and dragon, nimph, chariot do NOT have a volcano
+- spear yes
+
+(The Spear)
+-----------

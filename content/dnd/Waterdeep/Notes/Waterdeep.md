@@ -28,3 +28,11 @@ Star mounts - Orion's dad may be there with white dragon
 
 - A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
 - HP was 183
+
+---
+
+- Revanent can only be killed via
+  - you die
+  - wish spell 
+    - Letter from Seranya (intercepted) - Zaz Tam, she is a leader or tayen rebels, leared about doom vault, extra dimentional space created to house a litch's falactory, contains zaz tam flactory, distory falactory, make him mortal again, addessed to a sclentra lotshin seeking aid to create a raiding party to investigate, then break in, destroy falactories.
+  - time
