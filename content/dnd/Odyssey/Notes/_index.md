@@ -240,6 +240,7 @@ Isle of Yonder (I - The Gygan)
 
 (Constellation of the Twins)
 ----------------------------
+- Island with the amazons
 
 Island of the Fates (Constellation of the Bard)
 -----------------------------------------------
@@ -371,3 +372,16 @@ Indigo Island (The Queen)
 
 (The Spear)
 -----------
+- Astrea volcano?
+
+(The Ant)
+---------
+- Titan's folly, crew doesn't want us to be here.
+- Dome surrounds island?
+- Dream: minuture version of island, ants pouring out, cloak to tunax, staff to phyrros, 
+
+Mainland
+--------
+- Got Amulet of Health
+- Gygans could help with enhancing navigation device
+- Seeds of death and circle of death spell compontents purchased
