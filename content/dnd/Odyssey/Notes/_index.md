@@ -370,18 +370,22 @@ Indigo Island (The Queen)
 - twins, aunt, and dragon, nimph, chariot do NOT have a volcano
 - spear yes
 
-(The Spear)
------------
-- Astrea volcano?
-
-(The Ant)
----------
-- Titan's folly, crew doesn't want us to be here.
-- Dome surrounds island?
-- Dream: minuture version of island, ants pouring out, cloak to tunax, staff to phyrros, 
-
 Mainland
 --------
 - Got Amulet of Health
 - Gygans could help with enhancing navigation device
 - Seeds of death and circle of death spell compontents purchased
+
+Titans Folly (The Ant)
+----------------------
+- Titan's folly, crew doesn't want us to be here.
+- Dome surrounds island?
+- Dream: minuture version of island, ants pouring out, cloak to tunax, staff to phyrros, 
+- Greatest treasures, but sealed away by kentamane
+
+Typhoon (The Spear)
+-------------------
+- Astrea volcano?
+- Path with petrified people (Cave of vanity)
+- Euryale Medusa
+
