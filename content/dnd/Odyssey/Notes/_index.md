@@ -389,3 +389,7 @@ Typhoon (The Spear)
 - Path with petrified people (Cave of vanity)
 - Euryale Medusa
 
+Fire Island (The Prisoner)
+--------------------------
+- Lizard Folk, meet the shamen
+  - kill jankor, king of the firewalkers
