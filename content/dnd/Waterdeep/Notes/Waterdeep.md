@@ -33,6 +33,15 @@ Star mounts - Orion's dad may be there with white dragon
 
 - Revanent can only be killed via
   - you die
-  - wish spell 
+  - wish spell
     - Letter from Seranya (intercepted) - Zaz Tam, she is a leader or tayen rebels, leared about doom vault, extra dimentional space created to house a litch's falactory, contains zaz tam flactory, distory falactory, make him mortal again, addessed to a sclentra lotshin seeking aid to create a raiding party to investigate, then break in, destroy falactories.
   - time
+
+- Thesk (piracy, gangs, violence)
+- Rashemen (barbarians and witches, fairly inhospitable, at odds with Thay)
+- Aglarond (ravaged during spell plague, mostly uninhabited)
+  - green lady's keep
+  - We teleported to Velpentala
+  - Runic standing stone
+    - Elvish runes, covered in conjuration magic, borders of the forest have conjuration magic
+  - Disadvantage on stealth and investigation

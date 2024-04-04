@@ -14,3 +14,6 @@ categories:
 
 - Cautious: The shield can cast the Detect Good and Evil spell once per day.
 
+--- 
+
+- 193 hp (+10)
