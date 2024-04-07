@@ -39,7 +39,7 @@ Star mounts - Orion's dad may be there with white dragon
 
 - Thesk (piracy, gangs, violence)
 - Rashemen (barbarians and witches, fairly inhospitable, at odds with Thay)
-- Aglarond (ravaged during spell plague, mostly uninhabited)
+- Aglarond Yuirwood (ravaged during spell plague, mostly uninhabited)
   - green lady's keep
   - We teleported to Velpentala
   - Runic standing stone
