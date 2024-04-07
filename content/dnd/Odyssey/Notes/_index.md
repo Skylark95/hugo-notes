@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 bookCollapseSection: true
-categories: 
+categories:
 - Odyssey Campaign Notes
 ---
 
@@ -24,10 +24,10 @@ Visiting the Oracle
 ~ Sydon, Lord of All
 
 
-Handout: Prophesy of the oracle 
+Handout: Prophesy of the oracle
 -------------------------------
-- shape silver fire of the 
-- claim the might weapons 
+- shape silver fire of the
+- claim the might weapons
 - drink deep from the dragon horn
 
 Character Backstory
@@ -150,7 +150,7 @@ Necropolis
 Mytros
 ------
 - Vision of old man dying (Lutheria?)
-- Tarkon of behalf of King 
+- Tarkon of behalf of King
 - Massive Black clouds, heavy rain, bearded man forhead center of the storm (Third eye storm) - It's Sydon
 Handots
 - King Acasus
@@ -159,7 +159,7 @@ Handots
 - Chondrus
 
 Storm
-- Magic (powerfull spells to alter the weather) 
+- Magic (powerfull spells to alter the weather)
 - Dismantle the temple of the 5
 - Intervention of his sister wife of luteria (70 children take black robes and dedicate themselfs to luteria)
 - Bella: Priest of Sydon do a sacrifice (big storm, 100 oxen, 10,000gp)
@@ -203,7 +203,7 @@ Palace
 - Chief stewardess looking into navigation
 - Quest: Cult of Luteria causing trouble, involved in some backdealings
 - Quest: Lady of Coins, crime lord of sorts causing issues among wealthy, those who displease the lady are often found turned to stone with a green snake painted on the wall ()
-  - In the docks the past day or so before our arriaval 
+  - In the docks the past day or so before our arriaval
   - Dozen or so, going on a few months
   - Taren Nurdaggen - merchant - lost coin
     - Robs from the rich and gives to the poor
@@ -220,7 +220,7 @@ Taren Nurdaggen Property
 - Shit went south
 - We did the murder
 
-Collosus 
+Collosus
 --------
 - The Isle of Themes - Lady of coins wants to go there, she wants to find her sister, Thesalia, queen of the amazons, kill here and take her place
   - There is also a legendary weapon there
@@ -245,7 +245,7 @@ Isle of Yonder (I - The Gygan)
 Island of the Fates (Constellation of the Bard)
 -----------------------------------------------
 - 3 cave entrances, walk into main one, smells like rotten egg?
-- Large pit, bubbling yellow icor, worm like larva size of small dogs, mortal faces, fithly linins across the room. 
+- Large pit, bubbling yellow icor, worm like larva size of small dogs, mortal faces, fithly linins across the room.
 - Three women at loom of gigantic creature
   - Rots see's her parents in the loom, early life, sees Lutheria (slaughtered her parents)
 - PERSONAL QUEST (Isle of Themes): Prophesy foretold to bread the power of death, Lutheria hunted me down, Mithros intervened and reached out and erased my entire existance from history, souls of wife and child abrobed by luteria's crystal scythe and can free their souls and piece of wife's soul still remains and queen of the amazon's has one of her possessions, item has small piece of her soul.
@@ -300,7 +300,7 @@ Nethersea
 - Lost -2 to strength
 - dragon, and his leader, flew to nethersea, to hide the treasures of the dragon lord, found island in hell.
   - hezavol
-  - dragonlord ester arcalander, beat cyclops/gygan to make him weapon, bronse dagger, slaugher smith and entire family, 
+  - dragonlord ester arcalander, beat cyclops/gygan to make him weapon, bronse dagger, slaugher smith and entire family,
 - weird box with some creature in it???
 - 3 lifelike statues
   - 4 of the titans tried to strike at luteria directly (3 bothers of sydon and luteria that lost)
@@ -380,7 +380,7 @@ Titans Folly (The Ant)
 ----------------------
 - Titan's folly, crew doesn't want us to be here.
 - Dome surrounds island?
-- Dream: minuture version of island, ants pouring out, cloak to tunax, staff to phyrros, 
+- Dream: minuture version of island, ants pouring out, cloak to tunax, staff to phyrros,
 - Greatest treasures, but sealed away by kentamane
 
 Typhoon (The Spear)
@@ -393,3 +393,4 @@ Fire Island (The Prisoner)
 --------------------------
 - Lizard Folk, meet the shamen
   - kill jankor, king of the firewalkers
+
