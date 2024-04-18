@@ -1,3 +1,9 @@
+---
+title: "Yuirwood"
+categories:
+- Waterdeep Campaign Notes
+---
+
 - Aglarond Yuirwood (ravaged during spell plague, mostly uninhabited)
   - green lady's keep
   - We teleported to Velpentala
