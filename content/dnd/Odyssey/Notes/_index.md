@@ -394,3 +394,10 @@ Fire Island (The Prisoner)
 - Lizard Folk, meet the shamen
   - kill jankor, king of the firewalkers
 
+Garen of Helios (The Chariot)
+-----------------------------
+- Met Helios, god of light, wartmth, existance, god of the sun, golden chariet pulls the sun
+  - Bastard was a dragon in human (god) form
+
+(The Dragon)
+------------
