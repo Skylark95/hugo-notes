@@ -1,8 +1,5 @@
 ---
 title: "Notes"
-bookCollapseSection: true
-categories:
-- Odyssey Campaign Notes
 ---
 
 Kyrah - agent of the oracle
@@ -70,7 +67,6 @@ Mossy Temple
 - Rots: Demetria recognizes the Doomed One. She reveals that the Doomed One is destined to die by the workings of Lutheria. She says that only the Fates can say more
 - Tessaly squirrel turns into fat naked gnome, turns back into a squirrel and hops back on Tessaly
 - Girls at table
--
 - 2 necklaces 4 rings, half dozen gems, and a book
   - Necklace is wife's ring
   - Book pinned by luteria, how to make maynid
@@ -86,7 +82,7 @@ Karenna's home
 - Dad: Tharacleses
 - Daughter has been missing for about a week
 - Reward: Javalin (A gift from Sydon)
--
+
 The Horn
 -----------
 - Take it back to Queen Valis (In Mytros)
@@ -158,12 +154,11 @@ Handots
 - Gaius
 - Chondrus
 
-Storm
+### Storm
 - Magic (powerfull spells to alter the weather)
 - Dismantle the temple of the 5
 - Intervention of his sister wife of luteria (70 children take black robes and dedicate themselfs to luteria)
 - Bella: Priest of Sydon do a sacrifice (big storm, 100 oxen, 10,000gp)
-
 - Map of the last known whereabouts of a ship (The Oltros)
 - Island of Yonder? - Safety will be an issue, Sydon controls the sea, you'll need an unsinkable ship
 - Silver dragon on silver coins (Icarus)
@@ -185,7 +180,6 @@ Sour Vintage tavern
 -------------------
 - Ghost ship on river lethe
 - Death falls to underwarld, luteria
-
 - Each oar translucent decoposed man
 
 Ship
@@ -271,7 +265,6 @@ Isle of Themis (The Twins)
 - giraffe like creatures
 - Queen of the amazon far part of the island
 - have to kill both sisters
-
 - Lady of coins
 - Greg Found Bront
 
@@ -293,8 +286,8 @@ Fire Island (The Prisoner)
 - There is a dragon egg for Greg on the island
 - 5 hp more temp
 
-Nethersea
----------
+Nether Sea
+----------
 - Sea of cosmic matter gods used, exists for reasons?
 - Home to the titan Luteria
 - Lost -2 to strength
@@ -363,10 +356,8 @@ Indigo Island (The Queen)
   - just started a few months ago
 - Delg - chief of whale tribe
   - dragon east of here, highest point
-
 - 500gp
 - 100pp
-
 - twins, aunt, and dragon, nimph, chariot do NOT have a volcano
 - spear yes
 
@@ -401,3 +392,17 @@ Garen of Helios (The Chariot)
 
 (The Dragon)
 ------------
+
+Nether Sea (The Dreamer)
+------------------------
+- Chondrus said this is where we need to go to find Lutheria
+- Found the Isle of the Oathbreakers
+  - Demetria
+  - Helios
+- Ship with plants, pulled by large humanoid
+  - Boat is named Hypnos
+  - Beautiful woman and men in boat smoking
+    - Kitchen?
+  - Found hall of trinkets
+    - Pool Deck?
+  - Room of skulls? Go up staircase. Find an orgy. Then oh shit we found Lutheria.

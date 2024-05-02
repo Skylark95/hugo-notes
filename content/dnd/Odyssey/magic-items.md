@@ -1,4 +1,19 @@
+---
+title: "Magic Items"
+---
+
+Antikythera Device
+------------------
+Wondrous item, legendary (requires attunement)
+
+The Antikythera is a complex construct that acts as a magical compass. It also has the power to mend damage to a ship: once per day it can magically repair 50 hit points of damage to a ship it is aboard.
+
+
+It uses the constellations to guide its user to islands in the Cerulean Gulf or Forgotten Sea. Every island in these seas are associated with a specific constellation. The Antikythera must be used on dry land as the constant movement of waves makes it impossible to calibrate. When it is calibrated to the proper constellations, it will show a path that can be used to reach the island associated with a particular constellation.
+
 Helm of Brilliance
+------------------
+
 Requires Attunement
 
 This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
@@ -15,3 +30,18 @@ You gain the following benefits while wearing it:
 or stow the weapon.
 
 Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
+
+
+Ring of Protection
+------------------
+- Sounds base of neck, voices
+- Remember us, remember us, save us, bring us back
+- Find the queen of the amazons, find me
+
+You gain a +1 bonus to AC and saving throws while wearing this ring.
+
+Shortbow of Cupidity
+--------------------
+Weapon (shortbow), legendary (requires attunement)
+
+Attacks made with this weapon have a +1 bonus to attack and damage rolls. Once per day, on a successful hit, you may force the target to make a DC 14 Wisdom saving throw. On a failure, the target is charmed by you for one hour.
