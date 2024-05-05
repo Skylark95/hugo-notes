@@ -1,10 +1,6 @@
 ---
 title: "Skullport"
 weight: 2
-categories:
-- Waterdeep Campaign Notes
-tags:
-- Undermountain
 ---
 
 Xanathar magic items
