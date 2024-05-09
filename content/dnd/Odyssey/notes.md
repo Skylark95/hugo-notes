@@ -406,3 +406,4 @@ Nether Sea (The Dreamer)
   - Found hall of trinkets
     - Pool Deck?
   - Room of skulls? Go up staircase. Find an orgy. Then oh shit we found Lutheria.
+    - Ester Archalander runs out of Tunax
