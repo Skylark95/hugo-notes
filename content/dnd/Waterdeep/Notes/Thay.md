@@ -16,3 +16,6 @@ Yuirwood
   - Statue crumbled down as bear scratches
   - Fought a bunch of messed up animals
     - Created creatures prone to violet, not natural evolution, seems to target magic users the most
+- Pillar of blue flame in the distance
+  - Dead bodies on pathway on approach
+    - neck ripped out, piercing wounds to the chest
