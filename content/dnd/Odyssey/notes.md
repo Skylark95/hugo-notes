@@ -407,3 +407,16 @@ Nether Sea (The Dreamer)
     - Pool Deck?
   - Room of skulls? Go up staircase. Find an orgy. Then oh shit we found Lutheria.
     - Ester Archalander runs out of Tunax
+
+(The Blacksmith)
+----------------
+- Left without exploring
+
+Travel
+------
+- **Handout**: Summoning the New Gods
+- **Handout**: The Oath of Peace
+
+(The Titan)
+-----------
+- Going through pipes
