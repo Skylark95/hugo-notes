@@ -19,3 +19,19 @@ Yuirwood
 - Pillar of blue flame in the distance
   - Dead bodies on pathway on approach
     - neck ripped out, piercing wounds to the chest
+
+Thay
+----
+- Teleport into shadowy hall with two women and a man
+  - Suron (overseer of gatehouse), we are in gatehouse, can be sent to doom vault (contains phylactery of zaz tam)
+  - Black gates serve as teleportation circles
+  - Crystals attuned
+  - Gliph keys can be fused
+  - 1) destroy monsters an experiments
+  - 2) gain access to phylactery vault
+  - 3) destroy phylactery
+  - 4) keep what you loot
+     - a) Two adventurers, Chalendra and Kelson Darktretter presumed dead
+  - Taru Varr (litch) has quarters in doom vault
+  - Dread warriors animated, guardian, haru varr, can be piloted through him and cast spells
+  - Don't spend too long in there
