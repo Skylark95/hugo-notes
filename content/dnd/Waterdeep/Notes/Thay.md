@@ -35,3 +35,20 @@ Thay
   - Taru Varr (litch) has quarters in doom vault
   - Dread warriors animated, guardian, haru varr, can be piloted through him and cast spells
   - Don't spend too long in there
+
+Doom Vault
+----------
+- https://www.worldanvil.com/w/sanguera-jerry247/map/6d819565-f043-49bc-8487-1c353f4a4cfd
+- +d8 initiative for 8 hours
+
+### Glyph key
+- Gatehouse
+- Dark gardens
+- Vermin halls
+- Swine run
+- Hatchery
+- Temples of turmoil
+
+### Doom Vault
+- Glyph key taken off red wizard
+  - Stuu has it

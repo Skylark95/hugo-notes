@@ -420,3 +420,13 @@ Travel
 (The Titan)
 -----------
 - Going through pipes
+- dragon chains adamantine, runic locks
+  - silver greg: nefali
+- Room with Loot in Glass
+  - scroll
+    - the original copy of the oath of peace
+  - large gauntlet with 4 gems
+  - ruby size of shield
+  - shadowy looking helm
+  - sword and shield
+  - draconic skull missing one of its horns
