@@ -430,3 +430,9 @@ Travel
   - shadowy looking helm
   - sword and shield
   - draconic skull missing one of its horns
+
+Oath of Peace End
+-----------------
+- Kira and Pythor are no longer gods and turn into broze dragons
+
+

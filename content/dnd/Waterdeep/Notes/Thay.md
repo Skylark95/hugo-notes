@@ -52,3 +52,5 @@ Doom Vault
 ### Doom Vault
 - Glyph key taken off red wizard
   - Stuu has it
+- Vaxallia the Beholder, two eye swalks damanaged, cannot use glyph keys
+- Magic Item: Tome of the Stilled Tongue

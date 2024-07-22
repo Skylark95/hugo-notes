@@ -25,3 +25,7 @@ Shield of Caution
 
 - Cautious: The shield can cast the Detect Good and Evil spell once per day.
 
+Windcaller's Horn
+-----------------
+The ancient horn has 3 charges. It can use 1 charge to cast Gust of Wind. It can spend 2 to cast Control Winds. Regains all expended charges at dawn.
+
