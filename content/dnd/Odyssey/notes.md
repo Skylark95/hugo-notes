@@ -433,6 +433,6 @@ Travel
 
 Oath of Peace End
 -----------------
-- Kira and Pythor are no longer gods and turn into broze dragons
-
+- Kira and Pythor are no longer gods and turn into bronze dragons
+- King's dragon Icarus
 
