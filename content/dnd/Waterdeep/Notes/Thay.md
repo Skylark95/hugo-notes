@@ -54,3 +54,15 @@ Doom Vault
   - Stuu has it
 - Vaxallia the Beholder, two eye swalks damanaged, cannot use glyph keys
 - Magic Item: Tome of the Stilled Tongue
+- Found man who thought he would be tortered in Temple of Dispair
+  - Callen port is where he is from
+- Enchanted Item's in next room
+- Maze of undoing in Abysal doing, Fiends that can climb have escaped
+- Temples of extraction are a research facility where zaz tam followers conduct experiments
+  - Disrumpt a lock in each sector of the doom vault
+    - Done: blood pins, masters domain
+    - Key into black gate, you'll be able to figure it out from there
+- Temple of blood south of temple of shadow (good place to heal)
+- Temple of light might work better
+- Met Vorga
+
