@@ -65,4 +65,15 @@ Doom Vault
 - Temple of blood south of temple of shadow (good place to heal)
 - Temple of light might work better
 - Met Vorga
+- Isim
+  - Stay out of his home up stairs to south
+  - 173hp maximum
+  - Abissal prisions be weary of any deamons here, deamons will kill everything
+  - Flatory vault is not just a vault but a tomb, Tazz tam has chained the spirit to here. Have to go around or through casit goul, get a new glyff key
+- Vancessca
 
+Destroyed Teleporters
+---------------------
+- Master's Domain
+- Far Realm Cysts
+- Blood Pens
