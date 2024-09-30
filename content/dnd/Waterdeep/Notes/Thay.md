@@ -77,3 +77,8 @@ Destroyed Teleporters
 - Master's Domain
 - Far Realm Cysts
 - Blood Pens
+- Abyssal Prisons
+
+200 pp
+- platnum circlet
+-
