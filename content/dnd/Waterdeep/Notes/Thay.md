@@ -71,14 +71,11 @@ Doom Vault
   - Abissal prisions be weary of any deamons here, deamons will kill everything
   - Flatory vault is not just a vault but a tomb, Tazz tam has chained the spirit to here. Have to go around or through casit goul, get a new glyff key
 - Vancessca
+- 200 pp
+- platnum circlet
 
-Destroyed Teleporters
----------------------
+### Destroyed Teleporters
 - Master's Domain
 - Far Realm Cysts
 - Blood Pens
 - Abyssal Prisons
-
-200 pp
-- platnum circlet
--
