@@ -51,7 +51,14 @@ Doom Vault
 - Hatchery
 - Temples of turmoil
 
-### Doom Vault
+### Destroyed Teleporters
+- Master's Domain
+- Far Realm Cysts
+- Blood Pens
+- Abyssal Prisons
+- Predator Pools
+
+### Notes
 - Glyph key taken off red wizard
   - Stuu has it
 - Vaxallia the Beholder, two eye swalks damanaged, cannot use glyph keys
@@ -75,9 +82,6 @@ Doom Vault
 - Vancessca
 - 200 pp
 - platnum circlet
-
-### Destroyed Teleporters
-- Master's Domain
-- Far Realm Cysts
-- Blood Pens
-- Abyssal Prisons
+- Snaky individual north of here
+- South pool, priestess
+- barron norther most pool
