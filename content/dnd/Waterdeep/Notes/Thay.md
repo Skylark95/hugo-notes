@@ -38,8 +38,10 @@ Thay
 
 Doom Vault
 ----------
-- https://www.worldanvil.com/w/sanguera-jerry247/map/6d819565-f043-49bc-8487-1c353f4a4cfd
 - +d8 initiative for 8 hours
+
+### Map
+- [Map of Doom Vault](doom-vault-map.jpg)
 
 ### Glyph key
 - Gatehouse
