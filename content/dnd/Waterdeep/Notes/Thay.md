@@ -57,6 +57,7 @@ Doom Vault
 - Blood Pens
 - Abyssal Prisons
 - Predator Pools
+- Gollem Labratories
 
 ### Notes
 - Glyph key taken off red wizard
@@ -76,7 +77,6 @@ Doom Vault
 - Met Vorga
 - Isim
   - Stay out of his home up stairs to south
-  - 173hp maximum
   - Abissal prisions be weary of any deamons here, deamons will kill everything
   - Flatory vault is not just a vault but a tomb, Tazz tam has chained the spirit to here. Have to go around or through casit goul, get a new glyff key
 - Vancessca
@@ -85,3 +85,5 @@ Doom Vault
 - Snaky individual north of here
 - South pool, priestess
 - barron norther most pool
+- Lumalia
+  - Imprisoned for some time
