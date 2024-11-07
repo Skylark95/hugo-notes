@@ -87,3 +87,6 @@ Doom Vault
 - barron norther most pool
 - Lumalia
   - Imprisoned for some time
+- Met a trapped afreet
+- Skull room
+  - -2 Carmisma check and save
