@@ -2,19 +2,25 @@
 title: Notes
 ---
 
-- June 24
-- Crown Dive bar
-- Dick and Alice, Norville asked them about food spoiling
-  - Dick is a private eye
-    - 40 years ago, town started getting weird stuff happening, when it stopped, her little Violet was gone
-      - Alice says they never found her, she was only 5
-      - tvs acting up, 
-- Sadie met someone in the library that was interesting to her, Elenor brown librarian
-  - Handfast founded 1615
-  - Was a farming community until tourists showed up
-  - 70s things got weird, and it's been happening again
-  - people talking about food spoiling, weather too warm
-  - Elenor assaulted by a "thing", gash on back of leg, doesn't remember
-- Weather takes a turn for the worst and we head to shelter except for Cat and Dick
-- Figure on roof, younger woman comes into view.
-  - Says, "hello, you are new around here."
+## **Session 1: 11/6/2024**
+
+**June 24**
+
+- **Location:** Crown Dive Bar
+  - **Characters Met:**
+    - **Dick:** A private investigator who has lived in Handfast for many years. He shares that strange events began happening around 40 years ago, right when his daughter, Violet, disappeared. Violet was only 5 years old, and her disappearance has never been resolved.
+    - **Alice:** Reflecting on past events, she mentions that around the time Violet went missing, odd occurrences began in town, such as TVs acting up.
+    - **Norville:** Asks Dick and Alice if they’ve noticed food spoiling unexpectedly, hinting that something unnatural might be at play.
+
+- **Sadie’s Visit to the Library**
+  - **Eleanor Brown, Librarian:** Sadie encounters Eleanor Brown, a local librarian, who shares interesting information about Handfast:
+    - **Town History:** Handfast was founded in 1615 and remained a farming community until tourists began arriving.
+    - **Unusual Events:** Eleanor notes that strange things started happening in the 1970s, and the oddities have been recurring recently. People are discussing unusual food spoilage, and the weather has been unseasonably warm.
+    - **Mysterious Attack:** Eleanor has a gash on the back of her leg, which she attributes to being attacked by a “thing.” She doesn’t recall the specifics of the attack.
+
+- **Sudden Shift in Weather:**
+  - A sudden and intense change in the weather forces everyone to seek shelter, except for Cat and Dick, who stay outside.
+
+- **Mysterious Encounter:**
+  - A figure appears on the roof, and a young woman comes into view, saying, “Hello, you are new around here.”
+
