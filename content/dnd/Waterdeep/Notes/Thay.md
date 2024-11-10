@@ -58,6 +58,7 @@ Doom Vault
 - Abyssal Prisons
 - Predator Pools
 - Gollem Labratories
+- Ooze Grottos
 
 ### Notes
 - Glyph key taken off red wizard
@@ -90,3 +91,4 @@ Doom Vault
 - Met a trapped afreet
 - Skull room
   - -2 Carmisma check and save
+
