@@ -24,3 +24,36 @@ title: Notes
 - **Mysterious Encounter:**
   - A figure appears on the roof, and a young woman comes into view, saying, “Hello, you are new around here.”
 
+## **Session 2: 11/13/2024**
+
+- **Encounter with the Young Woman**
+  - A young woman appears but doesn’t give her name. Alice is shocked, thinking the woman looks like her missing daughter, Violet.
+  - Henry fully transforms into his werecorgi form, attacking the young woman after her face briefly changes to resemble his own.
+  - After Henry’s attack, the woman runs off. Beck and Henry try to chase her but fail.
+  - Norville tries to talk to Alice afterward, but Alice isn’t ready to speak yet.
+
+- **Sadie’s Investigation**
+  - Sadie heads outside to search for the young woman and finds barefoot footprints leading up the road and out of town.
+  - Sadie suspects this young woman isn’t entirely human, recalling stories of beings who were once human but have since changed.
+
+- **Alice and Her Connections**
+  - Alice heads home, and we learn she’s married to John (whom we haven’t met yet).
+  - Dick, a private investigator, is friends with Alice. Beck, Norville, and Sadie decide to visit Alice the next day to gather more details.
+
+- **After the Incident**
+  - Henry reverts to his human form, and Beck carries him back into the bar.
+  - The group disperses for the night:
+    - **Beck** returns to her short-term rental in town.
+    - **Sadie** heads to her van, parked close to the tavern near Handfast Children’s Park.
+    - **Norville** takes Henry with her to her home, a ranch house with a dingy basement a few blocks away on Orchard Street. She uses her skateboard to get home.
+
+      - **Observations on the Way Home:**
+        - The movie theater across from the bar is badly damaged by the tornado that swept through town around 10:30 pm.
+        - Norville feels uneasy on her way back, noticing strange black clouds near the ground.
+        - While a few buildings were completely wrecked, most of the town remains intact.
+      - Once home, Norville checks Twitter. Locals are discussing the storm, but there are no mentions of strange occurrences or unusual beings.
+      - She arrives home early at 11:30 pm to find her boyfriend already there; the bar usually closes at midnight.
+
+- **Bar Condition**
+  - When Norville left the bar, the window was covered with a tarp, providing only minimal security.
+
