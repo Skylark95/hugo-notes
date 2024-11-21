@@ -57,3 +57,60 @@ title: Notes
 - **Bar Condition**
   - When Norville left the bar, the window was covered with a tarp, providing only minimal security.
 
+## **Session 3: 11/20/2024**
+
+### **June 25**
+
+#### **Cat at the Library**
+- Cat works at the library today, where one of the windows is busted out and boarded up.
+- **Eleanor Brown (Librarian)**:
+  - Recalls she was attacked but can’t remember by who or what.
+  - Still recovering from a large gash down the back of her leg.
+  - Mentions that the storm and recent events feel eerily similar to 40 years ago when Alice’s daughter Violet went missing.
+- **Research on Violet’s Disappearance**:
+  - Cat reads a 40-year-old newspaper article about Violet’s disappearance:
+    - Violet disappeared in 1975 after going out alone one evening.
+    - Despite searching for a month and dredging the river, no body was ever found.
+    - The summer of 1975 had high river levels and a lot of rain, but the weather wasn’t unusual overall.
+  - Cat makes copies of the article.
+
+#### **Visit to Alice and John’s Apartment**
+- **Violet’s Parents**:
+  - Alice and John now live in an apartment above Fasthands Bakery on Main Street, near the post office.
+    - Fasthands is famous for its croissants and its rude baker, Mary.
+  - On the way, the group notices a lot of debris in the river, but otherwise, there’s little sign of storm damage.
+  - No one answers the doorbell initially, so the group gets food from the bakery. Eventually, they enter and hear a tea kettle whistling.
+  - Alice says she’ll join them in a moment, mentioning that John went out for a walk.
+
+- **Alice’s Memories of Violet**:
+  - Alice shows the group a box of pictures:
+    - A photo of Violet at 1 year old.
+    - A 5-year-old photo: Violet loved being outdoors and couldn’t stay in one spot. Everyone in town adored her since there weren’t many young kids around.
+    - The group notices that Violet had a distinct freckle and looked older (around 15) in the face they saw last night.
+  - Alice shares that Violet disappeared at dusk while playing outside. Around the same time:
+    - The weather was unreasonably hot, flooding occurred, and TVs across town malfunctioned.
+    - No one had any idea where she went.
+  - Sadie launches into a 20-minute theory about Violet being abducted by aliens.
+  - The group stays until lunchtime but gains no new insights.
+  - Sadie tries to steal a photo but is caught by Alice.
+
+#### **At the Park**
+- Cat, Sadie, and Beck head to the park, where they observe:
+  - **Parkgoers**: Three kids, an older man, a woman with a toddler, and a father with his son.
+  - **Injuries**: The older man and the woman have similar injuries to Eleanor’s leg wound.
+    - **Rosa (the woman)**:
+      - Attacked three days ago just after dusk. She doesn’t remember who or what attacked her.
+      - Lives near Alice’s old house, close to where Violet disappeared.
+    - **Ray (the older man)**:
+      - Attacked the day before Rosa.
+    - Eleanor was attacked two days ago.
+- Sadie and Beck spot a shadowy figure. They investigate and find footprints and broken branches in the trees, indicating the figure had been heading toward Sadie’s van.
+
+#### **Other Details**
+- **The Bakery**:
+  - Max (married to Mary, the rude baker) and their son Sam are well-known in town.
+
+#### **Norville at Work**
+- On her way to work, Norville passes the damaged movie theater.
+- A large, football-player-sized man pulls Norville into the movie theater.
+
