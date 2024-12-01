@@ -91,4 +91,11 @@ Doom Vault
 - Met a trapped afreet
 - Skull room
   - -2 Carmisma check and save
-
+- Smash the pillers
+- Remove the different elements
+- Disrumpt the flow of magical energy
+- Deal with chosen locks, then you gain access to the flactory
+- Scroll of remove curse
+- Scroll of speak with dead
+- Bracers of Defense
+- Start next game with short rest
