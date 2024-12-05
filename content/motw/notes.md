@@ -58,8 +58,7 @@ title: Notes
   - When Norville left the bar, the window was covered with a tarp, providing only minimal security.
 
 ## **Session 3: 11/20/2024**
-
-### **June 25**
+**June 25**
 
 #### **Cat at the Library**
 - Cat works at the library today, where one of the windows is busted out and boarded up.
@@ -114,3 +113,67 @@ title: Notes
 - On her way to work, Norville passes the damaged movie theater.
 - A large, football-player-sized man pulls Norville into the movie theater.
 
+## **Session 4: 12/04/2024**
+**June 25**
+
+#### **Henry’s Morning**
+- **Waking Up:**  
+  Henry wakes up on Norville's couch (unclear how he got there initially) and sneaks out without alerting her. He heads home uneventfully.  
+  - At his house, he reads in the paper about everyone’s refrigerators malfunctioning at the same time.
+
+- **Returning to the Tavern:**  
+  Henry heads back toward the tavern, where **Eli**, the bartender, is working.  
+  - Eli mentions **Constance** was attacked while walking her dogs. She doesn't remember the attack clearly (details were unclear during gameplay).  
+  - Henry notices the movie theater door is off its hinges. Eli thinks the damage was caused by the storm.  
+
+- **Exploring the Movie Theater:**  
+  Henry decides to investigate the movie theater.  
+  - **Front Entrance:** He finds the damaged doors stuck and difficult to open.  
+  - **Back Entrance:** He discovers an unlocked back door and enters.  
+  - **The Projector Room:** Heading upstairs, he finds a partially open doorway. Inside, **Norville** is bound and shackled on the floor. She has been there for 30 minutes.  
+
+- **Confronting the Creature:**  
+  Norville’s abductor is muttering, “Should I take the blood now?” and “You are not Violet.”  
+  - The creature is clearly not human, with sharp hands and long fingernails.  
+  - Henry is spotted and the creature tries to capture him. Henry attempts to use puppy dog eyes, but the creature is unaffected.  
+  - Norville struggles to escape while still bound, managing to get past Henry.  
+  - The creature follows Henry, prompting Henry to go full were-corgi.  
+
+- **The Fight:**  
+  - Henry bites the creature and then works to free Norville by biting through her ropes.  
+  - The creature catches up, but Henry bites it again, visibly weakening the creature.  
+  - The creature blocks the door, but Henry manages to escape to get help.  
+  - The creature uses Norville’s blood to wipe its hat, cloaks itself in shadows, and vanishes.  
+  - **Why did the creature want Norville’s blood?**  
+
+- **Aftermath:**  
+  Norville escapes, picks up Henry, and they head back to the tavern.
+
+#### **At the Park**
+- **The Shadowy Figure:**
+  Sadie and Beck investigate a shadowy figure, finding footprints and broken branches in the trees leading toward Sadie’s van.  
+  - The van’s engine starts.  
+  - Beck runs after the van and grabs the door, but her feet are dragged along the street.  
+  - Sadie tries to stop the van by standing in its path, but Cat tackles her out of the way and is hit by the van. The van speeds off, and they lose sight of it.  
+
+- **Deciding Next Steps:**  
+  The group initially plans to report the stolen van to the police on **St. Albans St.**, but instead decides to investigate **Pleasant St.**  
+  - Cat calls the police while walking. Officer **Ed** answers; he’s stressed due to the recent surge in attack reports.  
+
+#### **Alice’s Old House**
+- **Arriving at the House:**  
+  The group visits Alice’s old house, where Violet went missing.  
+  - There’s no sign the van passed by.  
+  - Sadie uses a **tile tracker**, but it doesn’t locate the van.  
+
+- **Meeting Ray:**  
+  Cat knocks, and **Ray** (from the park) answers. He’s in his 70s and has the same kind of cut on his arm as the other victims. Ray invites them inside.  
+  - Ray calls for **Nancy.**  
+
+- **Sadie’s Observations:**  
+  - Victims of the attacks have kids or grandkids but are attacked late, at dusk.  
+  - The girl from earlier mentioned she was "looking for a kid" but rejected Henry in were-corgi form, saying, “It isn’t him.”  
+  - Notably, no kids have been attacked, only adults walking home or outside at night.  
+
+#### **Back to the Tavern**
+The group decides to regroup at the tavern to share their findings and plan their next move. They consider keeping watch near the park tonight to see if the girl returns.
