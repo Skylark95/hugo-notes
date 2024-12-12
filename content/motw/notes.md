@@ -117,63 +117,100 @@ title: Notes
 **June 25**
 
 #### **Henry’s Morning**
-- **Waking Up:**  
-  Henry wakes up on Norville's couch (unclear how he got there initially) and sneaks out without alerting her. He heads home uneventfully.  
+- **Waking Up:**
+  Henry wakes up on Norville's couch (unclear how he got there initially) and sneaks out without alerting her. He heads home uneventfully.
   - At his house, he reads in the paper about everyone’s refrigerators malfunctioning at the same time.
 
-- **Returning to the Tavern:**  
-  Henry heads back toward the tavern, where **Eli**, the bartender, is working.  
-  - Eli mentions **Constance** was attacked while walking her dogs. She doesn't remember the attack clearly (details were unclear during gameplay).  
-  - Henry notices the movie theater door is off its hinges. Eli thinks the damage was caused by the storm.  
+- **Returning to the Tavern:**
+  Henry heads back toward the tavern, where **Eli**, the bartender, is working.
+  - Eli mentions **Constance** was attacked while walking her dogs. She doesn't remember the attack clearly (details were unclear during gameplay).
+  - Henry notices the movie theater door is off its hinges. Eli thinks the damage was caused by the storm.
 
-- **Exploring the Movie Theater:**  
-  Henry decides to investigate the movie theater.  
-  - **Front Entrance:** He finds the damaged doors stuck and difficult to open.  
-  - **Back Entrance:** He discovers an unlocked back door and enters.  
-  - **The Projector Room:** Heading upstairs, he finds a partially open doorway. Inside, **Norville** is bound and shackled on the floor. She has been there for 30 minutes.  
+- **Exploring the Movie Theater:**
+  Henry decides to investigate the movie theater.
+  - **Front Entrance:** He finds the damaged doors stuck and difficult to open.
+  - **Back Entrance:** He discovers an unlocked back door and enters.
+  - **The Projector Room:** Heading upstairs, he finds a partially open doorway. Inside, **Norville** is bound and shackled on the floor. She has been there for 30 minutes.
 
-- **Confronting the Creature:**  
-  Norville’s abductor is muttering, “Should I take the blood now?” and “You are not Violet.”  
-  - The creature is clearly not human, with sharp hands and long fingernails.  
-  - Henry is spotted and the creature tries to capture him. Henry attempts to use puppy dog eyes, but the creature is unaffected.  
-  - Norville struggles to escape while still bound, managing to get past Henry.  
-  - The creature follows Henry, prompting Henry to go full were-corgi.  
+- **Confronting the Creature:**
+  Norville’s abductor is muttering, “Should I take the blood now?” and “You are not Violet.”
+  - The creature is clearly not human, with sharp hands and long fingernails.
+  - Henry is spotted and the creature tries to capture him. Henry attempts to use puppy dog eyes, but the creature is unaffected.
+  - Norville struggles to escape while still bound, managing to get past Henry.
+  - The creature follows Henry, prompting Henry to go full were-corgi.
 
-- **The Fight:**  
-  - Henry bites the creature and then works to free Norville by biting through her ropes.  
-  - The creature catches up, but Henry bites it again, visibly weakening the creature.  
-  - The creature blocks the door, but Henry manages to escape to get help.  
-  - The creature uses Norville’s blood to wipe its hat, cloaks itself in shadows, and vanishes.  
-  - **Why did the creature want Norville’s blood?**  
+- **The Fight:**
+  - Henry bites the creature and then works to free Norville by biting through her ropes.
+  - The creature catches up, but Henry bites it again, visibly weakening the creature.
+  - The creature blocks the door, but Henry manages to escape to get help.
+  - The creature uses Norville’s blood to wipe its hat, cloaks itself in shadows, and vanishes.
+  - **Why did the creature want Norville’s blood?**
 
-- **Aftermath:**  
+- **Aftermath:**
   Norville escapes, picks up Henry, and they head back to the tavern.
 
 #### **At the Park**
 - **The Shadowy Figure:**
-  Sadie and Beck investigate a shadowy figure, finding footprints and broken branches in the trees leading toward Sadie’s van.  
-  - The van’s engine starts.  
-  - Beck runs after the van and grabs the door, but her feet are dragged along the street.  
-  - Sadie tries to stop the van by standing in its path, but Cat tackles her out of the way and is hit by the van. The van speeds off, and they lose sight of it.  
+  Sadie and Beck investigate a shadowy figure, finding footprints and broken branches in the trees leading toward Sadie’s van.
+  - The van’s engine starts.
+  - Beck runs after the van and grabs the door, but her feet are dragged along the street.
+  - Sadie tries to stop the van by standing in its path, but Cat tackles her out of the way and is hit by the van. The van speeds off, and they lose sight of it.
 
-- **Deciding Next Steps:**  
-  The group initially plans to report the stolen van to the police on **St. Albans St.**, but instead decides to investigate **Pleasant St.**  
-  - Cat calls the police while walking. Officer **Ed** answers; he’s stressed due to the recent surge in attack reports.  
+- **Deciding Next Steps:**
+  The group initially plans to report the stolen van to the police on **St. Albans St.**, but instead decides to investigate **Pleasant St.**
+  - Cat calls the police while walking. Officer **Ed** answers; he’s stressed due to the recent surge in attack reports.
 
 #### **Alice’s Old House**
-- **Arriving at the House:**  
-  The group visits Alice’s old house, where Violet went missing.  
-  - There’s no sign the van passed by.  
-  - Sadie uses a **tile tracker**, but it doesn’t locate the van.  
+- **Arriving at the House:**
+  The group visits Alice’s old house, where Violet went missing.
+  - There’s no sign the van passed by.
+  - Sadie uses a **tile tracker**, but it doesn’t locate the van.
 
-- **Meeting Ray:**  
-  Cat knocks, and **Ray** (from the park) answers. He’s in his 70s and has the same kind of cut on his arm as the other victims. Ray invites them inside.  
-  - Ray calls for **Nancy.**  
+- **Meeting Ray:**
+  Cat knocks, and **Ray** (from the park) answers. He’s in his 70s and has the same kind of cut on his arm as the other victims. Ray invites them inside.
+  - Ray calls for **Nancy.**
 
-- **Sadie’s Observations:**  
-  - Victims of the attacks have kids or grandkids but are attacked late, at dusk.  
-  - The girl from earlier mentioned she was "looking for a kid" but rejected Henry in were-corgi form, saying, “It isn’t him.”  
-  - Notably, no kids have been attacked, only adults walking home or outside at night.  
+- **Sadie’s Observations:**
+  - Victims of the attacks have kids or grandkids but are attacked late, at dusk.
+  - The girl from earlier mentioned she was "looking for a kid" but rejected Henry in were-corgi form, saying, “It isn’t him.”
+  - Notably, no kids have been attacked, only adults walking home or outside at night.
 
 #### **Back to the Tavern**
 The group decides to regroup at the tavern to share their findings and plan their next move. They consider keeping watch near the park tonight to see if the girl returns.
+
+## **Session 5: 12/11/2024**
+**June 25**
+
+#### **Opening Scene**
+- Sadie's van is found in the woods. Violet steps out of the van and is seen speaking with the same creature that abducted Norville.
+
+#### **At the Tavern**
+- Eli is working at the bar.
+- Norville tends to Henry's injuries. He is transforming back from were-corgi form and has a broken arm and leg from falling in the theater.
+- The rest of the group arrives at the tavern.
+- Norville texts Sadie to head to the back, and the party follows.
+- Cat persuades Eli to let them into the back room.
+- Norville calls an ambulance for Henry.
+- Sadie and Norville travel with Henry to the hospital, while Beck rides with Cat on his motorcycle.
+- Sadie and Norville lie to the hospital staff, saying Henry was hit by Sadie's van.
+
+#### **Hospital Waiting Room**
+- Norville shares details about the attack at the movie theater.
+- Sadie begins to connect the dots:
+  - Violet and the creature appear to be working together.
+  - Both seem to be searching for a specific child.
+  - The creature's bloody hat may be linked to the cuts found on victims.
+- Norville goes to check on Henry in his hospital room.
+
+#### **Henry's Hospital Room**
+- A nurse checks on Henry, and he asks her for ice cream from across the street. She agrees and wheels him out.
+- Sadie and Beck follow discreetly.
+- Henry tries unsuccessfully to convince the nurse to leave him alone.
+- Cat attempts a diversion with a fake insurance story but also fails.
+- After a series of distractions, the group manages to bust Henry out of the hospital.
+- They catch a bus back to Handfast.
+
+#### **The Park**
+- The group gets off the bus at the park around dusk.
+- Sadie's van is pinging nearby, indicating it is at the park.
+

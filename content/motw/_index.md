@@ -6,6 +6,7 @@ title: Monster of the Week
 - [Session 2 - 11/13/2024](notes/#session-2-11132024)
 - [Session 3 - 11/20/2024](notes/#session-3-11202024)
 - [Session 4 - 12/04/2024](notes/#session-4-12042024)
+- [Session 5 - 12/11/2024](notes/#session-5-12112024)
 
 ## Player Characters
 - **Norville (Mundane):**\
