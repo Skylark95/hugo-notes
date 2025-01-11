@@ -7,18 +7,21 @@ Welcome to my RPG notes site!
 
 Here you'll find notes and summaries for various RPG campaigns I've run and played in.
 
-## Current Campaigns
 
-### D&D
+## D&D
 
 *A classic fantasy roleplaying game where you play as adventurers who explore dungeons, fight monsters, and save the world.*
 
-* Waterdeep
-* Odyssey
-* Leftovers
-* Chult
+### Current Campaigns
+* Ravenloft
 
-### Monster of the Week
+### Previous Campaigns
+* Chult
+* Leftovers
+* Odyssey
+* Waterdeep
+
+## Monster of the Week
 
 *A Powered by the Apocalypse game where players are Hunters who are trying to stop supernatural creatures from harming people.*
 
