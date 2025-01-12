@@ -13,8 +13,8 @@ title: "Session Notes"
 
 **Character Introductions**
 
-* Caleen, young half-elf sorcerer
-* Fighter
+* Caelen, young half-elf sorcerer
+* Elara, Fighter
 * Yorick
 * Ventis
 * Nicholas
