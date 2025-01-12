@@ -213,27 +213,27 @@ The group decides to regroup at the tavern to share their findings and plan thei
 - The group gets off the bus at the park around dusk.
 - Sadie's van is pinging nearby, indicating it is at the park.
 
-### **Session 6: 12/18/2024**  
-**June 25**  
+## **Session 6: 12/18/2024**
+**June 25**
 
-#### **The Park**  
-- Violet is at the playground when the group approaches.  
-- She says she is there for Max, the boy spotted earlier at the playground.  
-- As Violet walks toward Max, Beck blocks her path, and Sadie stabs Violet.  
-- The football player-sized creature appears, hopping the fence.  
-  - Cat sets the creature on fire using magic.  
-  - The creature swings an axe at Beck, dealing **3 harm** to her arm.  
-  - Beck retaliates, shooting the creature with her shotgun.  
-- **Sadie connects the dots:**  
-  - The creatures are targeting kids to make another "Violet."  
-  - Violet reveals that the townsfolk have not upheld their end of some bargain.  
-- Sadie and Beck head toward the van.  
-- Officer Ed arrives at the scene and questions Cat, Norville, and Henry (in werecorgi form) about reports of gunshots.  
-  - He later speaks with Sadie and Beck, but they avoid giving him any useful information.  
+#### **The Park**
+- Violet is at the playground when the group approaches.
+- She says she is there for Max, the boy spotted earlier at the playground.
+- As Violet walks toward Max, Beck blocks her path, and Sadie stabs Violet.
+- The football player-sized creature appears, hopping the fence.
+  - Cat sets the creature on fire using magic.
+  - The creature swings an axe at Beck, dealing **3 harm** to her arm.
+  - Beck retaliates, shooting the creature with her shotgun.
+- **Sadie connects the dots:**
+  - The creatures are targeting kids to make another "Violet."
+  - Violet reveals that the townsfolk have not upheld their end of some bargain.
+- Sadie and Beck head toward the van.
+- Officer Ed arrives at the scene and questions Cat, Norville, and Henry (in werecorgi form) about reports of gunshots.
+  - He later speaks with Sadie and Beck, but they avoid giving him any useful information.
 
-#### **Leaving the Park**  
-- Sadie drives Beck to her rental to recover.  
-- Cat takes Norville and Henry on the bike, but as Henry transforms back into human form, both Norville and Henry fall off.  
-  - Cat uses magic to heal them.  
-- Back at Norville’s home, her boyfriend Lucas mentions that none of the stores in town have refrigerated items available.  
+#### **Leaving the Park**
+- Sadie drives Beck to her rental to recover.
+- Cat takes Norville and Henry on the bike, but as Henry transforms back into human form, both Norville and Henry fall off.
+  - Cat uses magic to heal them.
+- Back at Norville’s home, her boyfriend Lucas mentions that none of the stores in town have refrigerated items available.
 

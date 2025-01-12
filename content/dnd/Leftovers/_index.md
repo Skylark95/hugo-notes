@@ -1,5 +1,5 @@
 ---
-title: "Leftovers Campaign"
+title: "Leftovers"
 bookCollapseSection: true
 ---
 

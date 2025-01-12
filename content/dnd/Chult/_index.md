@@ -1,4 +1,4 @@
 ---
-title: "Chult Campaign"
+title: "Chult"
 bookCollapseSection: true
 ---

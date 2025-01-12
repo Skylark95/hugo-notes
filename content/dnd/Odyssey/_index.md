@@ -1,5 +1,5 @@
 ---
-title: "Odyssey Campaign"
+title: "Odyssey"
 bookCollapseSection: true
 ---
 
