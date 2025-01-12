@@ -1,5 +1,5 @@
 ---
-title: "Waterdeep Campaign"
+title: "Waterdeep"
 bookCollapseSection: true
 ---
 
