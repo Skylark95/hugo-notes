@@ -237,3 +237,94 @@ The group decides to regroup at the tavern to share their findings and plan thei
   - Cat uses magic to heal them.
 - Back at Norville’s home, her boyfriend Lucas mentions that none of the stores in town have refrigerated items available.
 
+## **Session 7: 01/15/2024**
+
+#### **Summary of what happened the past few days:**
+
+* **Sadie**
+  * Spent a couple of days fixing up her van and making a corkboard diagram of the mystery.
+  * Got permission from Ely to park her van behind the Crowne for a few nights.
+  * Will likely be at the Crowne every night.
+  * Seems to be the only one comfortable around Beck.
+
+
+* **Norville**
+  * Will be working at the Crowne.
+  * Has a crush on Jaida the Wiccan (as does Cat\!).
+  * Will have a "session" with Jaida where she'll share everything that happened and ask for advice/help, especially about Sadie and the burlap-sack-headed monster.
+  * Got a cleansing from Jaida and learned that the monster is in a book of creatures and is bad news.
+
+
+* **Cat**
+  * Has a crush on Jaida the Wiccan.
+  * Saw Jaida at the library reading Wiccan books, which got him interested.
+  * Has a switchblade athame.
+  * Started learning more of his magic powers
+
+
+* **Henry**
+  * Nicaara speculates that he's napping and drinking to recover from his injuries.
+  * (No info from Brian yet on what Henry's actually up to \- Clay is waiting for an answer\!)
+
+
+* **Beck**
+  * Would be interested in working with Sadie to go over what happened and try to get ahead of any future monster attacks.
+  * Is motivated to protect the town.
+
+* It seems like Norville is taking the lead on investigating the supernatural side of things, while Sadie is focused on more practical matters and Beck is concerned with the safety of the town.
+
+**Saturday Night, 10 PM**
+**Location: Crown Dive Bar**
+
+#### **At the Bar**
+
+- Patrons: Dick is present; Alice is not (she is at home).
+- **Norville talks with Dick:**
+  - He mentions that there’s more weirdness in the town than they realize.
+  - Dick appears hurt and avoids discussing Violet or the past, which clearly brings him pain.
+  - He reveals that he stayed in town for a reason but insists that revisiting the past won’t help.
+  - Dick tells Henry he knows he’s not really 8 years old.
+    - Henry briefly turns his face into werecorgi form and warns Dick that no one will believe him about it.
+    - This visibly unsettles Dick.
+  - Dick warns Norville, “If you know what’s good for you, you’ll stay away from Alice and all this.”
+- **Revealing Information:**
+  - Norville tells Dick she was abducted by “Football Man,” whose name is **Bonecruncher**.
+  - Sadie reveals the group has seen Violet twice.
+  - Dick is unsurprised they saved Max from being abducted and hints that he knows Violet was abducted in the past, possibly understanding more than he lets on.
+- **Dick agrees to help but imposes two conditions:**
+  1. They must stop talking to Alice about it.
+  2. They must not harm Violet.
+  - When the group attempts to lie about not hurting Violet, Dick sees through it.
+  - Angrily, he fires his gun into the ceiling, ending the conversation abruptly.
+
+#### **Leaving the Crown Dive Bar**
+
+- **Sadie:**
+
+  - Stays in her van by the bar.
+  - Beck comes back to inform her about Bonecruncher’s presence.
+  - Sadie drives Beck back but sees flashing police lights near Violet’s house.
+  - The session ends as they drive toward the scene.
+
+
+- **Beck:**
+
+  - Initially heads toward her Airbnb but hears loud footsteps running toward her.
+  - She pulls out her shotgun, but Bonecruncher vanishes before an encounter occurs.
+  - Beck goes back to inform Sadie about seeing Bonecruncher.
+
+
+- **Cat:**
+
+  - Heads home with a girl he met at the bar.
+  - On the way, he notices a police car outside Alice’s old house.
+    - The county sheriff and Officer Ed are present, with lights off.
+    - Two people stand outside, and Cat sees Violet’s body nearby.
+
+
+- **Norville:**
+
+  - Closes up shop and heads home on her skateboard.
+  - Stops by Dick’s place, worried about him.
+    - As she looks through the window, the porch creaks, and the lights flip on.
+    - Dick steps out, and Norville confirms he’s okay.
