@@ -516,3 +516,243 @@ title: "Session Notes"
 * It rains. The burgomaster tries to light the wicker ball but cannot because of the rain.
 * A man laughs, and the guards descend upon him. The party uses the distraction to get their captured members out.
 * Ismark does not see Ireena, freaks out, and starts busting out the others in the stocks to buy the party time to escape.
+
+## Session 8: 03/08/2025
+
+**Location:** Vallaki
+
+**Actions Taken:**
+
+* The party fled to the church.
+* Nicholas was honest with Father Luchan.
+* The party escaped over the wall using a rope north of the church.
+* The party retreated to abandoned houses west of town.
+* Worm scouted out the town.
+
+**Characters Met/Mentioned:**
+
+* **Oleg:** A man in an abandoned house who told the party about Lady Watcher.
+* **Lady Watcher:** Wants to remove the Burgomaster from power; lives in north-central Vallaki.
+* **Burgomaster Valkavitch:** The Burgomaster of Vallaki.
+* **Uri:** A guard who might be able to let the party in; involved in a "book club."
+* **Ivax Strazy:** Head guard; of utmost standing in the community and an enemy of Strahd.
+* **Cassimer Vilicoth:** A dusk elf with cut-off ears; knows about the Amber Door.
+* **Muvash:** A Vistani with a missing daughter named Arabel.
+
+**Quests/Information:**
+
+* Find Lady Watcher in north-central Vallaki; tell her Oleg sent the party.
+* Inquire about the "book club" to potentially get information from Uri.
+* The Amber Door is on Mount Ghakis; the secret to breaking Strahd is hidden there.
+* The "white sun" is an old term for the morning load, an ancient god of these lands.
+* A Vistani named Muvash has a missing daughter named Arabel.
+
+**Notes:**
+
+* Ventis has a patchwork of scars and skin.
+* The Burgomaster's house has guard dogs.
+* The SW gate was open during scouting.
+* Ismark or Ireena were not in the stockades.
+* The Burgomaster said Lady Watcher was not an enemy of his family line.
+* The Burgomaster seems uninterested in the bones being returned to the church.
+* Three sullen gray-cloaked figures were outside a house at the Gypsy camp.
+
+**Location:** Gypsy Camp
+
+**Characters Met/Mentioned:**
+
+* **Cassimer Vilicoth:** A dusk elf with cut-off ears.
+
+**Information:**
+
+* Cassimer and his brother are dusk elves, the last of their kind.
+* Dusk elves opposed Strahd, lost the great war, and were murdered; the Vistani were placed in charge of them.
+* Strahd cut off Cassimer's ears.
+* Cassimer dreams of the Amber Door, which is on Mount Ghakis.
+* The secret to breaking Strahd and freeing the land is hidden on Mount Ghakis.
+* Strahd went from man to beast using things in the mountain.
+* Mount Ghakis is a 1-2 week journey on foot.
+* Cassimer would join the party if they head to Mount Ghakis.
+
+**Notes:**
+
+* Three sullen gray-cloaked figures (elves, not drow) were outside a house as the party approached.
+* Next session, the party will talk to the Vistani and Muvash.
+
+## Session 9: 3/22/2025
+
+**Location:** Vistani Camp
+
+**Initial Actions & Observations:**
+
+* A Vistani named Alexi is being whipped outside a tent.
+* The Vistani can provide potions that temporarily allow travel outside the mists of Barovia.
+* The Vistani names are Argo and Muvash.
+* Muvash’s daughter, Arabel, is missing.
+* Arabel went with Alexi (19) and did not return, resulting in his punishment.
+* Arabel (11) has been missing for about 2 days, lost in Vallaki.
+* Caelen used Friends on Alexi. He lost Arabel in the Vallaki market after a carriage passed and broke sight. They were supposed to go to Lake Zarovich.
+* Arabel bought a male finger puppet doll at the toy store and wanted to keep it to herself.
+* Arabel is tall, with pale skin, blond hair in a long braid, wearing riding pants and a blue and red blouse with a vest.
+
+**Quests/Information:**
+
+* Shipments of wine from the winery have stopped. The winery is far to the west, near the town of Kresk.
+
+**Location:** Lake Zarovich
+
+**Encounters:**
+
+* Bluto, a fisherman.
+
+**Actions Taken:**
+
+* Three boats are on the shore; one is out about 400 feet with someone fishing.
+* Half of the party goes to the fisherman, Bluto.
+* Bluto throws a burlap sack overboard, which appears to contain a body.
+* Bluto appears drunk but does not smell of alcohol. He speaks of a dream about throwing a white deer into the water and a large fish appearing.
+* Arabel is found in the sack. She found Bluto in Vallaki heading towards the lake.
+* Arabel is taken back to the Vistani camp.
+
+**Location:** Vistani Camp
+
+**Actions Taken:**
+
+* The party takes a long rest.
+* Yorick has a dream similar to Bluto’s, about throwing Arabel in the water for personal gain.
+* Yorick tells Muvash about the dream and learns that her bloodline is from the first Vistani.
+* The party receives horses and a carriage as a reward.
+* Elara receives 2 short swords as a reward.
+
+**Location:** Road West
+
+**Actions Taken:**
+
+* The party reaches a crossroads: Lake Baratock (NW), Kresk and Tsolenka Pass (SW), Vallaki and Ravenloft. They head SW.
+* They reach another crossroads: Kresk (N), Wizard of Wines (SW). They head towards the Wizard of Wines.
+* The party heads towards the winery as it gets dark and foggy.
+* A man is waving from the treeline north of the vineyard.
+* The party approaches the man, Dabian Markencoff, and 8 or 9 people in the treeline.
+* Dabian Markencoff says his family owns the winery and was attacked minutes ago by forest people and their minions, so they took refuge in the woods.
+
+**Location:** Winery
+
+**Encounters:**
+
+* Forest people and their minions.
+* Dabian Markencoff and his family.
+
+**Actions Taken:**
+
+* The party notices they are being followed by forest people while sneaking.
+* They enter the loading dock; the door is broken and will not close.
+* They see someone pouring something into the wine vats and tree creatures scurrying about.
+
+## Session 10: 03/29/2025
+
+**Location:** Winery
+
+**Initial Actions & Observations:**
+
+* The party went upstairs and found a room with a crane used to raise and lower barrels.
+* They saw a man with wild hair waving a staff at them on the crane, who then ran off.
+* They encountered three creatures in a room: one appearing human and covered in mud, and two creatures made entirely of vines. **Roll Initiative.**
+* The party noticed that the winery was surrounded by similar tree-like creatures.
+* The wine was poisoned, but the specific poison is unknown.
+* A staircase leading to a basement was discovered, and the party proceeded downstairs.
+* A secret door downstairs was found, leading to a shallow cave.
+
+**Encounters:**
+
+* Man with wild hair
+* Human covered in mud
+* Two vine creatures
+* More creatures and humans in the basement. **Roll Initiative.**
+
+**Items Acquired:**
+
+* Tooth necklace from the lady pouring poison into the vats.
+* 57 silver pieces (sp) per person.
+* 45 electrum pieces (ep) per person.
+* 10 gold pieces (gp) per person (Nicholas gave his share to Yorick).
+* Sponge black shaft from the man with wild hair (Gotiath's staff). Destroying it kills all the tree people.
+
+This document contains notes from a role-playing game campaign, specifically sessions involving a group's adventures in a setting called Ravenloft. The selected notes detail Session 11 and include information about locations, quests, encounters, items acquired, and characters mentioned.
+
+## Session 11: 04/05/2025
+
+**Location:** Winery
+
+* **Reward:** Get a shipment of wine to the Vistani.
+* **Quest:** Three ancient seeds were planted at the winery; two were lost. The tree folk took the last one, and the crops at the winery won’t last past a season without it.
+  * Yester Hill is where the tree folk came from (to the south).
+* The party leaves for Yester Hill and comes upon a bundle of clothing stuffed in a hollow log (drab common clothes).
+  * Boots and paw footprints are seen.
+  * The party burns the clothes.
+* The party continues south and arrives at Yester Hill.
+
+**Location:** Yester Hill
+
+* The party hears the sound of distant hooves coming from behind and hides in nearby trees.
+* A flaming-mane horse runs through the sky and circles the hill. Someone is riding the horse.
+* Forest druids come from the rocks (approximately a dozen are seen).
+* The party heads up the hill.
+* The party sees a giant statue of a man with fangs.
+* On the other side of the ring, there are small, sickly trees with blood and sap running down one tree. Humanoid needle creatures are roaming around it. Ten druids are in the ring chanting and doing some sort of ritual.
+* The party finds Strahd as the rider on the horse in the grove right to the side of the top of the hill in the grove.
+* A large 30-foot treeant appears when a lightning bolt strikes the earth.
+* Strahd implies that the treeant is heading towards the winery.
+* Nicholas asks about Ireena but fails a Wisdom saving throw and is convinced Strahd is doing good for the land of Barovia.
+
+**Location:** Winery
+
+* The party chases the treeant heading towards the winery and **roll initiative**.
+* @11:50 Elara gets pumped.
+* **Loot:** There is a grapefruit-sized green gem in the treeant when it is killed. It is probably the seed the party was sent to retrieve.
+
+**Location:** Old Water Tower
+
+* The party starts escorting the wine towards the Vistani camp.
+* The party heads towards a lake halfway through the trip and sees a skeletal horse and rider with a lamp looking through the fog. It is heading southeast to northwest. Carriage drivers think it's lost looking for a way through the mist.
+* The party approaches an old water tower upon the lake. Near the tower is a purple carriage spattered with mud. The party hears a wolf howl in the distance. Yorick opens the cart, and it explodes. The party hears the wolf howls again, suggesting they are likely to descend upon the group again.
+
+## Session 12: 04/12/2025
+
+**Location:** Tower
+
+**Initial Actions & Observations:**
+
+* The name "Khazan" is carved on the tower door.
+* An electrical discharge surrounds the tower when Worm knocks on the door.
+* An exploded cart near the tower contains items such as a morning star head, shattered vials, a copper pot and pan, manacles, and part of a tarokka card (1 of glyphs).
+* Yorick enters the tower through a high hole in the wall using scaffolding.
+* Inside, there are four hanging chains and four clay statues.
+* Saying "Top of the tower" activates a pulley system with the statues.
+* The tower's top room contains a bed, stove, desk, chair, suit of armor, and a wooden chest with a strong lavender scent.
+
+**Items Acquired:**
+
+* Head of morning star
+* Box of shattered vials
+* Dented copper pot and pan
+* Half a set of manacles
+* Part of a tarokka card (1 of glyphs)
+
+**Letter Contents:**
+
+* A vampire murdered the writer's child, Arasmas, who was a "Minion of a nightstalker."
+* The writer lived for centuries and hunted the unnatural.
+* The Vistani gave Arasmas to a vampire, Baron Metis, who turned him into a vampire.
+* The writer killed Arasmas at his son's request.
+
+**Encounters:**
+
+* Strahd
+
+**Actions Taken:**
+
+* The party attempts a long rest but is interrupted by two dozen approaching wolves and a person walking among them.
+* The party rides to the top of the tower.
+* Strahd appears in the rafters.
+* Nicholas shoots at a wolf and misses.
+* Strahd bites Nicholas, reducing his maximum health by 10 hp.
